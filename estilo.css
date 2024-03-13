@@ -1,0 +1,21 @@
+/* Defina a fonte para o site inteiro */
+body {
+  font-family: 'Oswald'; /* Substitua 'NovaFonte' pelo nome real da fonte desejada ou pela família genérica */
+}
+        
+        /* Estilize a barra conforme necessário */
+        .barra {
+          background-color: #035300; /* Cor de fundo da barra */
+          color: #ffffff; /* Cor do texto na barra */
+          padding: 10px; /* Espaçamento interno na barra */
+          text-align: start, justify; /* Centraliza o texto na barra */
+          font-family: 'Oswald';
+          font-size: 40px;
+        }
+     
+
+        .barra img {
+          max-width: 100%; /* Garante que a imagem não ultrapasse a largura da barra */
+          height: 80px; /* Mantém a proporção da imagem */
+          margin-right: 10px; /* Adiciona um espaçamento à direita da imagem */
+        }
